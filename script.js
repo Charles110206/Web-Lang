@@ -78,9 +78,31 @@ let hearts = [];
 
 const confession = [
 
-    "I Like You",
-    "I Love You",
-    "So Much"
+    "Uhmm... Hi!?",
+
+    "Hello!?", 
+
+    "I don't know what should I say", 
+
+    "or", 
+
+    "How would I say this to you...", 
+
+    "I'm directing to the point", 
+
+    "There's something I want to tell you...",
+
+    "You became someone really special to me",
+
+    "And...",
+
+    "I like you💘🥰",
+
+    "But...",
+
+    "I don't expect you to answer it right away. I just only wanted you to know.",
+
+    "It's okay to me even if you don't like me; I just really wanted your answer if I'm worthy of you."
     
 ];
 
